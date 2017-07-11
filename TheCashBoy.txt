@@ -1,11 +1,11 @@
-THE CASH BOY
+## THE CASH BOY
 
-By Horatio Alger, Jr.
-
-
+# By Horatio Alger, Jr.
 
 
-PREFACE
+
+
+## PREFACE
 
 
 “The Cash Boy,” by Horatio Alger, Jr., as the name implies, is a story
@@ -32,9 +32,9 @@ an old man, his own relatives and right name were revealed to him.
 
 
 
-CHAPTER I
+## CHAPTER I
 
-A REVELATION
+# A REVELATION
 
 
 A group of boys was assembled in an open field to the west of the public
@@ -247,9 +247,9 @@ gather my strength to tell you what must be told.”
 
 
 
-CHAPTER II
+## CHAPTER II
 
-MRS. FOWLER’S STORY
+# MRS. FOWLER’S STORY
 
 
 “Not my mother!” he exclaimed. “Who, then, is my mother?”
@@ -451,9 +451,9 @@ seen him since.”
 
 
 
-CHAPTER III
+## CHAPTER III
 
-LEFT ALONE
+# LEFT ALONE
 
 Frank listened to this revelation with wonder. For the first time in his
 life he asked himself, “Who am I?”
@@ -574,9 +574,9 @@ While you were out your mother had another hemorrhage, and--and--”
 
 
 
-CHAPTER IV
+## CHAPTER IV
 
-THE TOWN AUTOCRAT
+# THE TOWN AUTOCRAT
 
 
 “The Widder Fowler is dead,” remarked Deacon Pinkerton, at the supper
@@ -803,9 +803,9 @@ making this visit first. It will be a saving to the town.”
 
 
 
-CHAPTER V
+## CHAPTER V
 
-A LITTLE MISUNDERSTANDING
+# A LITTLE MISUNDERSTANDING
 
 
 “Have you carried Frank Fowler to the poorhouse?” asked Tom Pinkerton,
@@ -942,9 +942,9 @@ York.
 
 
 
-CHAPTER VI
+## CHAPTER VI
 
-FRANK GETS A PLACE
+# FRANK GETS A PLACE
 
 
 “So this is New York,” said Frank to himself, as he emerged from the
@@ -1253,9 +1253,9 @@ expressing the hope that he would soon be able to send for her.
 
 
 
-CHAPTER VII
+## CHAPTER VII
 
-THE CASH BOY HAS AN ADVENTURE
+# THE CASH BOY HAS AN ADVENTURE
 
 
 Four weeks passed. The duties of a cash-boy are simple enough, and Frank
@@ -1470,9 +1470,9 @@ to herself. “That boy reminds me of somebody. Who is it?”
 
 
 
-CHAPTER VIII
+## CHAPTER VIII
 
-AN UNEXPECTED ENGAGEMENT
+# AN UNEXPECTED ENGAGEMENT
 
 
 “Take a seat, Frank,” said Mr. Wharton, pointing to a luxurious armchair
@@ -1633,9 +1633,9 @@ There was something in her tone that made Frank feel uncomfortable.
 
 
 
-CHAPTER IX
+## CHAPTER IX
 
-THE HOUSEKEEPER’S NEPHEW
+# THE HOUSEKEEPER’S NEPHEW
 
 
 “By no means,” said Mr. Wharton, as the housekeeper was about to
@@ -1831,9 +1831,9 @@ evening closed at a neighboring billiard saloon.
 
 
 
-CHAPTER X
+## CHAPTER X
 
-THE HOUSEKEEPER SCHEMING
+# THE HOUSEKEEPER SCHEMING
 
 
 If Mrs. Bradley had been wiser, she would have felt less confident of
@@ -2149,9 +2149,9 @@ Bradley.
 
 
 
-CHAPTER XI
+## CHAPTER XI
 
-JOHN WADE
+# JOHN WADE
 
 
 A tall man, with a sallow complexion, and heavily-bearded face, stood
@@ -2419,9 +2419,9 @@ speak of this subject again.”
 
 
 
-CHAPTER XII
+## CHAPTER XII
 
-A FALSE FRIEND
+# A FALSE FRIEND
 
 
 When John Wade re-entered the library, Frank was reading, but Mr.
@@ -2579,9 +2579,9 @@ friend.
 
 
 
-CHAPTER XIII
+## CHAPTER XIII
 
-THE SPIDER AND THE FLY
+# THE SPIDER AND THE FLY
 
 
 “Uncle,” said John Wade, “you spoke of inviting Frank Fowler to occupy
@@ -2708,9 +2708,9 @@ work of him.”
 
 
 
-CHAPTER XIV
+## CHAPTER XIV
 
-SPRINGING THE TRAP
+# SPRINGING THE TRAP
 
 
 “I am going to give you a few days’ vacation, Frank,” said Mr. Wharton,
@@ -2866,9 +2866,9 @@ he had a presentiment that her visit boded fresh evil for him.
 
 
 
-CHAPTER XV
+## CHAPTER XV
 
-FROM BAD TO WORSE
+# FROM BAD TO WORSE
 
 
 Frank’s misgivings were not without good cause. The housekeeper’s call
@@ -3133,9 +3133,9 @@ on.
 
 
 
-CHAPTER XVI
+## CHAPTER XVI
 
-AN ACCOMPLICE FOUND
+# AN ACCOMPLICE FOUND
 
 
 No sooner had John Wade parted from our hero than he saw approaching him
@@ -3311,9 +3311,9 @@ He went out, locking the door behind him
 
 
 
-CHAPTER XVII
+## CHAPTER XVII
 
-FRANK AND HIS JAILER
+# FRANK AND HIS JAILER
 
 
 It was twenty minutes before Frank, waiting impatiently, heard the steps
@@ -3397,10 +3397,9 @@ It was the face of a woman.
 
 
 
-CHAPTER XVIII
+## CHAPTER XVIII
 
-
-“OVER THE HILL TO THE POORHOUSE”
+# “OVER THE HILL TO THE POORHOUSE”
 
 
 We are compelled for a time to leave our hero in the hands of his
@@ -3630,9 +3629,9 @@ Such was the new home for which poor Grace was expected to be grateful.
 
 
 
-CHAPTER XIX
+## CHAPTER XIX
 
-WHAT FRANK HEARD THROUGH THE CREVICE
+# WHAT FRANK HEARD THROUGH THE CREVICE
 
 
 Frank looked with some surprise at the woman who was looking through
@@ -3775,9 +3774,9 @@ Mr. Wharton, his kind benefactor?”
 
 
 
-CHAPTER XX
+## CHAPTER XX
 
-THE ESCAPE
+# THE ESCAPE
 
 
 It was eight o’clock the next morning before Frank’s breakfast was
@@ -4018,9 +4017,9 @@ handsomely.”
 
 
 
-CHAPTER XXI
+## CHAPTER XXI
 
-JOHN WADE’S DISAPPOINTMENT
+# JOHN WADE’S DISAPPOINTMENT
 
 
 Mr. Wharton sat at dinner with his nephew and the housekeeper. He
@@ -4209,9 +4208,9 @@ disposition.
 
 
 
-CHAPTER XXII
+## CHAPTER XXII
 
-CONCLUSION
+# CONCLUSION
 
 
 Meanwhile poor Grace had fared badly at the poorhouse in Crawford. It
